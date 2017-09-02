@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+
+<g id="Production">
+	<g>
+		<path fill="#ffffff" d="M48,14H16v34h32V14z M46,46H18V16h28V46z"/>
+		<path fill="#ffffff" d="M9,7v53h2v-5h42v5h2V7H9z M53,53H11V9h42V53z"/>
+		<path fill="#ffffff" d="M23.707,40.707l4.8219-4.8219C29.51,36.5842,30.7062,37,32,37s2.49-0.4158,3.4711-1.1149l4.8219,4.8219
+			l1.4141-1.4141l-4.8219-4.8218C37.5842,33.4901,38,32.2938,38,31s-0.4158-2.4901-1.1149-3.4711l4.8219-4.8219L40.293,21.293
+			l-4.8218,4.8219C34.49,25.4158,33.2938,25,32,25s-2.49,0.4157-3.4711,1.1148L23.707,21.293L22.293,22.707l4.8218,4.8219
+			C26.4158,28.5099,26.02,29.7062,26.02,31s0.3958,2.4901,1.0949,3.4711L22.293,39.293L23.707,40.707z M32,27c2.2056,0,4,1.7944,4,4
+			s-1.7944,4-4,4s-3.98-1.7944-3.98-4S29.7944,27,32,27z"/>
+	</g>
+</g>
+</svg>

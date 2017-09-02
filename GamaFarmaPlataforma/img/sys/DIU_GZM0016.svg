@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+
+<g id="Production">
+	<path fill="#ffffff" d="M45,19v-6.5001C45,10.0185,42.9481,8,40.4666,8H23.4661C20.9847,8,19,10.0185,19,12.4999V19H5v37h54V19H45z
+		 M54,51h-9V28h-5v23H24V28h-5v23h-9V24h14V13h16v6H28v5h26V51z"/>
+</g>
+</svg>

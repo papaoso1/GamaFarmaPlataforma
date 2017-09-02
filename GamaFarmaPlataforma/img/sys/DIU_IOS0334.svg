@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+
+<g id="Production">
+	<g>
+		<path fill="#ffffff" d="M53,14h-5v-3c0-1.103-0.897-2-2-2H18c-1.103,0-2,0.897-2,2v3h-5c-2.2056,0-4,1.7944-4,4v19
+			c0,2.2056,1.7944,4,4,4h3v-2h-3c-1.103,0-2-0.897-2-2V18c0-1.103,0.897-2,2-2h42c1.103,0,2,0.897,2,2v19c0,1.103-0.897,2-2,2h-3v2
+			h3c2.2056,0,4-1.7944,4-4V18C57,15.7944,55.2056,14,53,14z M18,11h28v3H18V11z"/>
+		<path fill="#ffffff" d="M16,53h32V27H16V53z M18,29h28v22H18V29z"/>
+	</g>
+</g>
+</svg>

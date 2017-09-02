@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+
+<g id="Production">
+	<g>
+		<path fill="#ffffff" d="M53.6931,18h-5.2834l6.1555,18H37.5325c-0.2388,2-0.2932,5.9175-5.0344,5.9175
+			c-4.738,0-4.793-3.9175-5.0332-5.9175H10.4331l6.1553-18h-5.2832L5,36.3243V57h55V36.3243L53.6931,18z M55,52H10V41h13.3845
+			c2.9919,8,15.23,8,18.2283,0H55V52z"/>
+		<polygon fill="#ffffff" points="45.103,18.0808 41.5681,14.5458 35,21.1136 35,5 30,5 30,21.1136 23.4309,14.5458 
+			19.8955,18.0808 32.4993,30.6848 		"/>
+	</g>
+</g>
+</svg>

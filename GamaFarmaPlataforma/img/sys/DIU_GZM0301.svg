@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+
+<g id="Production">
+	<g>
+		<polygon fill="#ffffff" points="51,37 51,47 12,47 12,37 7,37 7,52 56,52 56,37 		"/>
+		<polygon fill="#ffffff" points="29,20.5732 29,41 34,41 34,20.5664 42.3896,29.1914 45.8066,25.6563 31.0918,11 16.3984,25.6621 
+			20.1543,29.1973 		"/>
+	</g>
+</g>
+</svg>

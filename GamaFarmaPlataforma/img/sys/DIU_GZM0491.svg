@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+
+<g id="Production">
+	<g>
+		<path fill="#ffffff" d="M52.2932,14h-5.2844l7.5237,22H37.4998c-0.2388,2-0.2933,5.9033-5.0343,5.9033
+			c-3.9532,0-4.6506-3.1614-4.7463-3.7786L27.432,36H10.4003l7.5237-22h-5.2844L5,36.301V57h55V36.301L52.2932,14z M55,52H10V41
+			h13.3518c2.9918,8,15.2301,8,18.2281,0H55V52z"/>
+		<rect x="17" y="27" fill="#ffffff" width="31" height="5"/>
+		<rect x="20" y="18" fill="#ffffff" width="25" height="5"/>
+		<rect x="23" y="9" fill="#ffffff" width="19" height="5"/>
+	</g>
+</g>
+</svg>

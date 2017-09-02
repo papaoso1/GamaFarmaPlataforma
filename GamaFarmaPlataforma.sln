@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamaFarmaPlataforma", "GamaFarmaPlataforma\GamaFarmaPlataforma.csproj", "{DCD7F1CA-0BF3-409B-B3CE-021E09A65ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "r3Take", "..\r3Take\r3Take\r3Take.csproj", "{1D21A54D-6439-4C03-8402-74E925E8C76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamaFarma", "..\GamaFarma\GamaFarma\GamaFarma.csproj", "{9C089992-6EBA-4C69-8069-EA9BDF7D3EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD7F1CA-0BF3-409B-B3CE-021E09A65ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD7F1CA-0BF3-409B-B3CE-021E09A65ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD7F1CA-0BF3-409B-B3CE-021E09A65ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD7F1CA-0BF3-409B-B3CE-021E09A65ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D21A54D-6439-4C03-8402-74E925E8C76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D21A54D-6439-4C03-8402-74E925E8C76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D21A54D-6439-4C03-8402-74E925E8C76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D21A54D-6439-4C03-8402-74E925E8C76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C089992-6EBA-4C69-8069-EA9BDF7D3EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C089992-6EBA-4C69-8069-EA9BDF7D3EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C089992-6EBA-4C69-8069-EA9BDF7D3EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C089992-6EBA-4C69-8069-EA9BDF7D3EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+
+<g id="Production">
+	<g>
+		<polygon fill="#ffffff" points="12.1019,16.1981 8.6042,13.1033 5.2908,16.8475 12.6176,23.3308 20.8566,13.5897 17.0391,10.3611 
+					"/>
+		<rect x="24" y="16" fill="#ffffff" width="34" height="5"/>
+		<polygon fill="#ffffff" points="12.1019,31.1979 8.6042,28.1031 5.2908,31.8473 12.6176,38.3306 20.8566,28.5895 17.0391,25.361 
+					"/>
+		<rect x="24" y="31" fill="#ffffff" width="34" height="5"/>
+		<polygon fill="#ffffff" points="12.1019,46.1978 8.6042,43.103 5.2908,46.8472 12.6176,53.3304 20.8566,43.5894 17.0391,40.3608 
+					"/>
+		<rect x="24" y="46" fill="#ffffff" width="34" height="5"/>
+	</g>
+</g>
+</svg>

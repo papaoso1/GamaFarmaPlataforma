@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+
+<g id="Production">
+	<g>
+		<path fill="#ffffff" d="M46,6H17c-2.7568,0-5,2.2432-5,5v42c0,2.7568,2.2432,5,5,5h29c2.7568,0,5-2.2432,5-5V11
+			C51,8.2432,48.7568,6,46,6z M49,53c0,1.6543-1.3457,3-3,3H17c-1.6543,0-3-1.3457-3-3V11c0-1.6543,1.3457-3,3-3h29
+			c1.6543,0,3,1.3457,3,3V53z"/>
+		<path fill="#ffffff" d="M18,22h27V12H18V22z M20,14h23v6H20V14z"/>
+		<path fill="#ffffff" d="M18,32h7v-7h-7V32z M20,27h3v3h-3V27z"/>
+		<path fill="#ffffff" d="M28,32h7v-7h-7V32z M30,27h3v3h-3V27z"/>
+		<path fill="#ffffff" d="M38,32h7v-7h-7V32z M40,27h3v3h-3V27z"/>
+		<path fill="#ffffff" d="M18,42h7v-7h-7V42z M20,37h3v3h-3V37z"/>
+		<path fill="#ffffff" d="M28,42h7v-7h-7V42z M30,37h3v3h-3V37z"/>
+		<path fill="#ffffff" d="M18,52h7v-7h-7V52z M20,47h3v3h-3V47z"/>
+		<path fill="#ffffff" d="M28,52h7v-7h-7V52z M30,47h3v3h-3V47z"/>
+		<path fill="#ffffff" d="M38,52h7V35h-7V52z M40,37h3v13h-3V37z"/>
+	</g>
+</g>
+</svg>

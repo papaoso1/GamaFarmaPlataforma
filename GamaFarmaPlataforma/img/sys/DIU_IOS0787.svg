@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+<g id="box">
+	<rect fill="none" width="64" height="64"/>
+</g>
+<g id="Production">
+	<g>
+		<path fill="#ffffff" d="M56,20H7c-1.6543,0-3,1.3457-3,3v21c0,1.6543,1.3457,3,3,3h49c1.6543,0,3-1.3457,3-3V23
+			C59,21.3457,57.6543,20,56,20z M57,44c0,0.5513-0.4487,1-1,1H7c-0.5513,0-1-0.4487-1-1V23c0-0.5513,0.4487-1,1-1h49
+			c0.5513,0,1,0.4487,1,1V44z"/>
+		<rect x="9" y="27" fill="#ffffff" width="3" height="3"/>
+		<rect x="15" y="27" fill="#ffffff" width="3" height="3"/>
+		<rect x="21" y="27" fill="#ffffff" width="3" height="3"/>
+		<rect x="27" y="27" fill="#ffffff" width="3" height="3"/>
+		<rect x="33" y="27" fill="#ffffff" width="3" height="3"/>
+		<rect x="39" y="27" fill="#ffffff" width="3" height="3"/>
+		<rect x="45" y="27" fill="#ffffff" width="3" height="3"/>
+		<rect x="51" y="27" fill="#ffffff" width="3" height="3"/>
+		<rect x="9" y="33" fill="#ffffff" width="4" height="3"/>
+		<rect x="16" y="33" fill="#ffffff" width="3" height="3"/>
+		<rect x="22" y="33" fill="#ffffff" width="3" height="3"/>
+		<rect x="28" y="33" fill="#ffffff" width="3" height="3"/>
+		<rect x="34" y="33" fill="#ffffff" width="3" height="3"/>
+		<rect x="40" y="33" fill="#ffffff" width="3" height="3"/>
+		<rect x="46" y="33" fill="#ffffff" width="8" height="3"/>
+		<rect x="9" y="39" fill="#ffffff" width="3" height="3"/>
+		<rect x="15" y="39" fill="#ffffff" width="3" height="3"/>
+		<rect x="21" y="39" fill="#ffffff" width="21" height="3"/>
+		<rect x="45" y="39" fill="#ffffff" width="3" height="3"/>
+		<rect x="51" y="39" fill="#ffffff" width="3" height="3"/>
+		<path fill="#ffffff" d="M39,11h4c4.4111,0,8-3.5889,8-8h-2c0,3.3086-2.6914,6-6,6h-4c-4.9624,0-9,4.0376-9,9h2
+			C32,14.1401,35.1401,11,39,11z"/>
+	</g>
+</g>
+</svg>
+

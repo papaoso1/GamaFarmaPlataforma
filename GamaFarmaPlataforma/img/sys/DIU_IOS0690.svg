@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+<g id="box">
+	<rect fill="none" width="64" height="64"/>
+</g>
+<g id="Production">
+	<g>
+		<rect x="8" y="46" fill="#ffffff" width="11" height="2"/>
+		<rect x="8" y="16" fill="#ffffff" width="11" height="2"/>
+		<rect x="14" y="35" fill="#ffffff" width="2" height="9"/>
+		<rect x="14" y="20" fill="#ffffff" width="2" height="9"/>
+		<polygon fill="#ffffff" points="14,7 14,14 16,14 16,9 51,9 51,55 16,55 16,50 14,50 14,57 53,57 53,7 		"/>
+		<rect x="8" y="31" fill="#ffffff" width="11" height="2"/>
+		<path fill="#ffffff" d="M31.776,22.6099l-1.9037-3.0663c-0.2484-0.4001-0.7133-0.6043-1.1811-0.5277
+			c-1.0878,0.1781-2.8567,0.862-2.6788,3.436c0.29,4.1947,8.4033,12.25,12.5356,12.5356c2.574,0.1779,3.2579-1.591,3.436-2.6788
+			c0.0766-0.4678-0.1276-0.9327-0.5277-1.1811l-3.0663-1.9037c-0.3938-0.2444-0.8978-0.23-1.2823,0.0369l-1.3438,0.9326
+			c-1.7592-1.1825-3.6219-2.9705-4.9575-4.9575l0.9326-1.3438C32.006,23.5077,32.0204,23.0037,31.776,22.6099z"/>
+	</g>
+</g>
+</svg>
+

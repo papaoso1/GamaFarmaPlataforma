@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+<g id="box">
+	<rect fill="none" width="64" height="64"/>
+</g>
+<g id="Production">
+	<g>
+		<path fill="#ffffff" d="M8,56h23V8H8V56z M10,10h19v44H10V10z"/>
+		<path fill="#ffffff" d="M33,8v48h23V8H33z M54,54H35V10h19V54z"/>
+		<rect x="14" y="14" fill="#ffffff" width="11" height="2"/>
+		<rect x="14" y="18" fill="#ffffff" width="11" height="2"/>
+		<rect x="14" y="22" fill="#ffffff" width="11" height="2"/>
+		<rect x="14" y="40" fill="#ffffff" width="11" height="2"/>
+		<rect x="14" y="44" fill="#ffffff" width="11" height="2"/>
+		<rect x="14" y="48" fill="#ffffff" width="11" height="2"/>
+		<path fill="#ffffff" d="M24,29c-1.1046,0-2,0.8954-2,2c0,0.7384,0.4047,1.3762,1,1.7226V36h2v-3.2774
+			c0.5953-0.3464,1-0.9842,1-1.7226C26,29.8954,25.1046,29,24,29z"/>
+		<rect x="39" y="14" fill="#ffffff" width="11" height="2"/>
+		<rect x="39" y="18" fill="#ffffff" width="11" height="2"/>
+		<rect x="39" y="22" fill="#ffffff" width="11" height="2"/>
+		<rect x="39" y="40" fill="#ffffff" width="11" height="2"/>
+		<rect x="39" y="44" fill="#ffffff" width="11" height="2"/>
+		<rect x="39" y="48" fill="#ffffff" width="11" height="2"/>
+		<path fill="#ffffff" d="M47,31c0,0.7384,0.4047,1.3762,1,1.7226V36h2v-3.2774c0.5953-0.3464,1-0.9842,1-1.7226
+			c0-1.1046-0.8954-2-2-2C47.8954,29,47,29.8954,47,31z"/>
+	</g>
+</g>
+</svg>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+<g id="box">
+	<rect fill="none" width="64" height="64"/>
+</g>
+<g id="Production">
+	<g>
+		<path fill="#ffffff" d="M38,26c0-0.6667,0-1.3334,0-2c-7.3333-3.44-14.6667,3.44-22,0c0,0.6666,0,1.3333,0,2
+			C23.3333,29.44,30.6667,22.56,38,26z"/>
+		<path fill="#ffffff" d="M38,33c0-0.6667,0-1.3334,0-2c-7.3333-3.44-14.6667,3.44-22,0c0,0.6666,0,1.3333,0,2
+			C23.3333,36.44,30.6667,29.56,38,33z"/>
+		<path fill="#ffffff" d="M38,40c0-0.6667,0-1.3334,0-2c-7.3333-3.44-14.6667,3.44-22,0c0,0.6666,0,1.3333,0,2
+			C23.3333,43.44,30.6667,36.56,38,40z"/>
+		<path fill="#ffffff" d="M52,13H12c-2.7568,0-5,2.2432-5,5v28c0,2.7568,2.2432,5,5,5h40c2.7568,0,5-2.2432,5-5V18
+			C57,15.2432,54.7568,13,52,13z M45,49H12c-1.6543,0-3-1.3457-3-3V18c0-1.6543,1.3457-3,3-3h33V49z M55,46c0,1.6543-1.3457,3-3,3
+			h-5V15h5c1.6543,0,3,1.3457,3,3V46z"/>
+		<circle fill="#ffffff" cx="51" cy="41" r="2"/>
+	</g>
+</g>
+</svg>
+

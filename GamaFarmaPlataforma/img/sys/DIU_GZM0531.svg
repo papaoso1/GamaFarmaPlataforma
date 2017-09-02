@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+<g id="box">
+	<rect fill="none" width="64" height="64"/>
+</g>
+<g id="Production">
+	<polygon fill="#465860" points="32.4707,55.5884 6.0801,38.7104 1.1953,41.5449 32.4707,61.521 63.748,41.5449 58.8633,38.7109 	
+		"/>
+	<polygon fill="#465860" points="32.4707,44.8877 6.0801,28.0098 1.1953,30.8442 32.4707,50.8203 63.748,30.8442 58.8633,28.0103 	
+		"/>
+	<path fill="#465860" d="M32.4707,40.1196L1.1953,20.1436L32.4707,2L63.748,20.1436L32.4707,40.1196z M10.8047,20.3486
+		l21.666,13.8384l21.668-13.8384L32.4707,7.7803L10.8047,20.3486z"/>
+</g>
+</svg>

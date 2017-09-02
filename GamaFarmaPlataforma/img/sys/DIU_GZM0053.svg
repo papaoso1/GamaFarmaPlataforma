@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+
+<g id="Production">
+	<g>
+		<path fill="#ffffff" d="M51.4197,17H21.9257l7.3017-8.52c4.8547-0.2388,4.6469-7.4822-0.1833-7.4822
+			c-2.2153,0-4.0583,1.9472-3.6926,4.3219L15.3405,17h-2.9219C7.7314,17,4,20.8099,4,25.4968v25.9997
+			C4,56.1835,7.7314,60,12.4186,60h39.0012C56.1069,60,60,56.1835,60,51.4965V25.4968C60,20.8099,56.1069,17,51.4197,17z
+			 M55,51.5001C55,53.433,53.433,55,51.4999,55H12.5001C10.5671,55,9,53.433,9,51.5001V25.4999C9,23.567,10.5671,22,12.5001,22
+			h38.9998C53.433,22,55,23.567,55,25.4999V51.5001z"/>
+		<circle fill="#ffffff" cx="45.5" cy="46.4966" r="4.4999"/>
+		<rect x="23" y="39" fill="#ffffff" width="5" height="12"/>
+		<rect x="32" y="39" fill="#ffffff" width="5" height="12"/>
+		<rect x="14" y="39" fill="#ffffff" width="5" height="12"/>
+		<polygon fill="#ffffff" points="44,26 39,26 39,30 13,30 13,35 51,35 51,30 44,30 		"/>
+	</g>
+</g>
+</svg>
