@@ -458,7 +458,7 @@ function getResource(target, urlUID, params, myFunction, fade) {
 function showInfo(msg) {
     try {
         $('body').pgNotification({
-            style: 'simple',
+            style: 'flip',
             message: '<div style="float:left;"><img src="/img/alert/info_2x.png" width="40" height="40"></div><div class="p-l-5" style="float:left;"><strong>Información</strong><br/>' + msg + '</div>',
             position: 'top-right',
             type: 'info',
@@ -474,7 +474,7 @@ function showInfo(msg) {
 function showOk(msg) {
     try {
         $('body').pgNotification({
-            style: 'simple',
+            style: 'flip',
             message: '<div style="float:left;"><img src="/img/alert/ok_2x.png" width="40" height="40"></div><div class="p-l-5" style="float:left;"><strong>Éxito</strong><br/>' + msg + '</div>',
             position: 'top-right',
             type: 'success',
@@ -490,7 +490,7 @@ function showOk(msg) {
 function showWarning(msg) {
     try {
         $('body').pgNotification({
-            style: 'simple',
+            style: 'flip',
             message: '<div style="float:left;"><img src="/img/alert/warning_2x.png" width="40" height="40"></div><div class="p-l-5" style="float:left;"><strong>Cuidado</strong><br/>' + msg + '</div>',
             position: 'top-right',
             type: 'warning',
@@ -506,7 +506,7 @@ function showWarning(msg) {
 function showError(msg) {
     try {
         $('body').pgNotification({
-            style: 'simple',
+            style: 'flip',
             message: '<div style="float:left;"><img src="/img/alert/error_2x.png" width="40" height="40"></div><div class="p-l-5" style="float:left;"><strong>Error</strong><br/>' + msg + '</div>',
             position: 'top-right',
             type: 'danger',

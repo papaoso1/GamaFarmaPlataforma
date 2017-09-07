@@ -105,6 +105,9 @@
     </div>
     
     <!-- BEGIN VENDOR JS -->
+         
+
+
     <script src="/assets/plugins/pace/pace.min.js" type="text/javascript"></script>
     <script src="/assets/plugins/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
     <script src="/assets/plugins/modernizr.custom.js" type="text/javascript"></script>
