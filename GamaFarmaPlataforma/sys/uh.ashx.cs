@@ -5,7 +5,7 @@ using System.Web.SessionState;
 
 namespace GamaFarmaPlataforma.sys
 {
-    public class UploadHandler : IHttpHandler, IRequiresSessionState
+    public class uh : IHttpHandler, IRequiresSessionState
     {
         public void ProcessRequest(HttpContext context)
         {
@@ -26,7 +26,6 @@ namespace GamaFarmaPlataforma.sys
         {
             switch (context.Request.HttpMethod)
             {
-
                 case "HEAD":
                 case "GET":
                 case "DELETE":
@@ -50,9 +49,12 @@ namespace GamaFarmaPlataforma.sys
 
                         if (Guid.TryParse(context.Request["uidRep"], out uidRep))
                         {
-                            context.Response.ClearHeaders();
-                            context.Response.StatusCode = 200;
-                            context.Response.Write(WebFile.upload(context).ToString());
+                            if (uidRep != Guid.Empty)
+                            {
+                                context.Response.ClearHeaders();
+                                context.Response.StatusCode = 200;
+                                context.Response.Write(WebFile.upload(context).ToString());
+                            }
                         }
                         else
                         {
@@ -73,6 +75,5 @@ namespace GamaFarmaPlataforma.sys
                     break;
             }
         }
-
     }
 }

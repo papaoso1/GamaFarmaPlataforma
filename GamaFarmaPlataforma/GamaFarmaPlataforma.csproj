@@ -1304,7 +1304,8 @@
     <Content Include="assets\plugins\bootstrap-select2\package.json" />
     <Content Include="assets\plugins\bootstrap-select2\README.md" />
     <Content Include="assets\plugins\bootstrap-select2\release.sh" />
-    <Content Include="sys\UploadHandler.ashx" />
+    <Content Include="sys\dh.ashx" />
+    <Content Include="sys\uh.ashx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -2307,6 +2308,9 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sys\dh.ashx.cs">
+      <DependentUpon>dh.ashx</DependentUpon>
+    </Compile>
     <Compile Include="sys\fh.aspx.cs">
       <DependentUpon>fh.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -2328,8 +2332,8 @@
     <Compile Include="sys\mgr.aspx.designer.cs">
       <DependentUpon>mgr.aspx</DependentUpon>
     </Compile>
-    <Compile Include="sys\UploadHandler.ashx.cs">
-      <DependentUpon>UploadHandler.ashx</DependentUpon>
+    <Compile Include="sys\uh.ashx.cs">
+      <DependentUpon>uh.ashx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
